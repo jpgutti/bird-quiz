@@ -1,0 +1,1462 @@
+[
+  {
+    "titulo": "João-teneném",
+    "nome_cientifico": "Synallaxis spixi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/19/91423_7490e011e35c7ce252e8ca958633b655.mp3"
+  },
+  {
+    "titulo": "Anu-branco",
+    "nome_cientifico": "Guira guira",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/932/239590_d30b85a134f1b8a3bc36208868580581.mp3"
+  },
+  {
+    "titulo": "Saci",
+    "nome_cientifico": "Tapera naevia",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/61/16497_3262a7967ac788807d918defdc9c2455.mp3"
+  },
+  {
+    "titulo": "Sabiá-do-campo",
+    "nome_cientifico": "Mimus saturninus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/31/13648_26127025a5fd9736e055c9500267dfae.mp3"
+  },
+  {
+    "titulo": "Saracura-sanã",
+    "nome_cientifico": "Pardirallus nigricans",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/57/75995_0444caacd84ae03058919f39261eae86.mp3"
+  },
+  {
+    "titulo": "Coruja-orelhuda",
+    "nome_cientifico": "Asio clamator",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/24/42932_9f4f830e1269b4d322f114089348bf92.mp3"
+  },
+  {
+    "titulo": "Barranqueiro-de-olho-branco",
+    "nome_cientifico": "Automolus leucophthalmus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/811/118991_490fb624db193f5c3fb2638849b744ef.mp3"
+  },
+  {
+    "titulo": "Risadinha",
+    "nome_cientifico": "Camptostoma obsoletum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/8/8354_ad33d7c394455aed7cbd3fb76927a2ad.mp3"
+  },
+  {
+    "titulo": "Corruíra",
+    "nome_cientifico": "Troglodytes musculus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/84/48966_d519d3c1c1e6b1e4d94ca1ed97006a27.mp3"
+  },
+  {
+    "titulo": "Tiê-preto",
+    "nome_cientifico": "Tachyphonus coronatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59258_886972ffb5f7037be8f8237c19ba8e19.mp3"
+  },
+  {
+    "titulo": "Pássaro-preto",
+    "nome_cientifico": "Gnorimopsar chopi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/64/46909_0620fe3c5ecaf1a435b066a2a63d5d10.mp3"
+  },
+  {
+    "titulo": "Saracura-do-mato",
+    "nome_cientifico": "Aramides saracura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/9/9898_121b67c28c14d2547afba4efcc2cfa06.mp3"
+  },
+  {
+    "titulo": "Alma-de-gato",
+    "nome_cientifico": "Piaya cayana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/091/190305_1ac48d69544199d8e073fef8580ad1ff.mp3"
+  },
+  {
+    "titulo": "Pica-pau-branco",
+    "nome_cientifico": "Melanerpes candidus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/26/62294_513d093ef3942de344a240486f282941.mp3"
+  },
+  {
+    "titulo": "Guaracava-de-barriga-amarela",
+    "nome_cientifico": "Elaenia flavogaster",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/24/42827_91921c3392303b21ff9cdea86a9a6f21.mp3"
+  },
+  {
+    "titulo": "Saíra-amarela",
+    "nome_cientifico": "Stilpnia cayana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/68/86150_172824c7ddc7639d81a12374bb961850.mp3"
+  },
+  {
+    "titulo": "Tico-tico",
+    "nome_cientifico": "Zonotrichia capensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/71/17166_158b29b0366895727ec5ca5a8f533486.mp3"
+  },
+  {
+    "titulo": "Canário-da-terra",
+    "nome_cientifico": "Sicalis flaveola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/221/122476_5ed1d7842d2f179a53091e450aa5dd2f.mp3"
+  },
+  {
+    "titulo": "Bigodinho",
+    "nome_cientifico": "Sporophila lineola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/421/124593_6311df71c4d9897fd7853e0fa7df0634.mp3"
+  },
+  {
+    "titulo": "Trinca-ferro",
+    "nome_cientifico": "Saltator similis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/4/4182_cbe3e4a302cbeafbc775e71a87c90b96.mp3"
+  },
+  {
+    "titulo": "Inhambu-chororó",
+    "nome_cientifico": "Crypturellus parvirostris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/2/2408_ec2c90dfb34ac3d128759cbc305c668a.mp3"
+  },
+  {
+    "titulo": "Sanã-carijó",
+    "nome_cientifico": "Mustelirallus albicollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/06/60363_36f5960411e53230ac1eedbb4dd9ee57.mp3"
+  },
+  {
+    "titulo": "Quero-quero",
+    "nome_cientifico": "Vanellus chilensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/1/1288_d69b7a7f2e7da9f492f1b25fd7d6019f.mp3"
+  },
+  {
+    "titulo": "Anu-preto",
+    "nome_cientifico": "Crotophaga ani",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/431/134166_2fbcc3e0ff3c8e30c6ae88f0b3db87b0.mp3"
+  },
+  {
+    "titulo": "Beija-flor-tesoura",
+    "nome_cientifico": "Eupetomena macroura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58806_c6e22554811469a186b9a7c9f9fa05e2.mp3"
+  },
+  {
+    "titulo": "Barbudo-rajado",
+    "nome_cientifico": "Malacoptila striata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/951/159515_a2cee81889669a7b1740db0657a262f5.mp3"
+  },
+  {
+    "titulo": "Pica-pau-do-campo",
+    "nome_cientifico": "Colaptes campestris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/28/82829_f8a57dbb669c4f169c639eb894ed52b9.mp3"
+  },
+  {
+    "titulo": "Casaca-de-couro-da-lama",
+    "nome_cientifico": "Furnarius figulus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58809_e6b46053caccf5a7b814a63c20888619.mp3"
+  },
+  {
+    "titulo": "Ferreirinho-relógio",
+    "nome_cientifico": "Todirostrum cinereum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/54/45722_7cc5e9b57d7809b852bdbea444001847.mp3"
+  },
+  {
+    "titulo": "Bico-chato-de-orelha-preta",
+    "nome_cientifico": "Tolmomyias sulphurescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/01/10070_f6535045ad4c5d9a7cc86f6e6528f2a2.mp3"
+  },
+  {
+    "titulo": "Enferrujado",
+    "nome_cientifico": "Lathrotriccus euleri",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/101/101129_8d7fbfc04081882f4c7e08d0a59af673.mp3"
+  },
+  {
+    "titulo": "Bem-te-vi",
+    "nome_cientifico": "Pitangus sulphuratus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/52/25828_c87d5028235f4ca91e815d436b1ced18.mp3"
+  },
+  {
+    "titulo": "Pitiguari",
+    "nome_cientifico": "Cyclarhis gujanensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/311/113498_d707060a612bd5e22a49062708d61ecf.mp3"
+  },
+  {
+    "titulo": "Gralha-do-campo",
+    "nome_cientifico": "Cyanocorax cristatellus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/92/29704_b42f6a1f9e07a4ba4134359ea022d6fd.mp3"
+  },
+  {
+    "titulo": "Sabiá-barranco",
+    "nome_cientifico": "Turdus leucomelas",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59262_19ac945396f16c6ebe133eff764cc9f0.mp3"
+  },
+  {
+    "titulo": "Canário-do-campo",
+    "nome_cientifico": "Emberizoides herbicola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/852/258121_5ce363ab7d6653215c3c62fc90deea1d.mp3"
+  },
+  {
+    "titulo": "Tiziu",
+    "nome_cientifico": "Volatinia jacarina",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/811/118452_e760f91bdbc2d8d7539d78ea63dc343d.mp3"
+  },
+  {
+    "titulo": "Azulão",
+    "nome_cientifico": "Cyanoloxia brissonii",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/5/5975_cb1fab34616df075730ba5767d9b00a6.mp3"
+  },
+  {
+    "titulo": "Mariquita",
+    "nome_cientifico": "Setophaga pitiayumi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22011_9cf9352358e8abaa72187ee8c47ad73c.mp3"
+  },
+  {
+    "titulo": "Inhambuguaçu",
+    "nome_cientifico": "Crypturellus obsoletus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/15/51182_12cf0744921850f1dbd3e93c191ebc46.mp3"
+  },
+  {
+    "titulo": "Carrapateiro",
+    "nome_cientifico": "Milvago chimachima",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/065/560344_9076d2504bd8f5ad3acde2b065861877.mp3"
+  },
+  {
+    "titulo": "Acauã",
+    "nome_cientifico": "Herpetotheres cachinnans",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/05/50127_bda5c4d0e84d7ed223e5ce126cdc9693.mp3"
+  },
+  {
+    "titulo": "Quiriquiri",
+    "nome_cientifico": "Falco sparverius",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22835_0fa720dad5c9315c619a3612c72fd224.mp3"
+  },
+  {
+    "titulo": "Seriema",
+    "nome_cientifico": "Cariama cristata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/43/34624_45c14306ca386b706df6ba63ddde4d94.mp3"
+  },
+  {
+    "titulo": "Rolinha-roxa",
+    "nome_cientifico": "Columbina talpacoti",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58792_ad14e7f3ea245c3926706385b84340a4.mp3"
+  },
+  {
+    "titulo": "Periquitão",
+    "nome_cientifico": "Psittacara leucophthalmus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/781/187809_c3e00262fdd00720e8f67e97ae49b402.mp3"
+  },
+  {
+    "titulo": "Maitaca-verde",
+    "nome_cientifico": "Pionus maximiliani",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/681/186764_7295af359154a548dd9f2f2d25956663.mp3"
+  },
+  {
+    "titulo": "Corujinha-do-mato",
+    "nome_cientifico": "Megascops choliba",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65707_790a15177dcdd354e81376675f0c98e9.mp3"
+  },
+  {
+    "titulo": "Bacurau",
+    "nome_cientifico": "Nyctidromus albicollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/321/123246_6928c99a3782c229829bc7f4efde96bc.mp3"
+  },
+  {
+    "titulo": "Bacurau-ocelado",
+    "nome_cientifico": "Nyctiphrynus ocellatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/333/333759_88e64780dda3557063e2d9c372673dde.mp3"
+  },
+  {
+    "titulo": "Tucanuçu",
+    "nome_cientifico": "Ramphastos toco",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59232_0468fdebddde4bb6a95b776edd96fc13.mp3"
+  },
+  {
+    "titulo": "Choca-da-mata",
+    "nome_cientifico": "Thamnophilus caerulescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/701/107508_26a6ffadd7522b51837d50f5250919c0.mp3"
+  },
+  {
+    "titulo": "João-de-barro",
+    "nome_cientifico": "Furnarius rufus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/64/46276_1cb15a237990c19c94ebe3e719f1dcc8.mp3"
+  },
+  {
+    "titulo": "Arredio-pálido",
+    "nome_cientifico": "Cranioleuca pallida",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/161/161677_ffc0bd7d75ec7830672cc1abd6ce4580.mp3"
+  },
+  {
+    "titulo": "João-botina-da-mata",
+    "nome_cientifico": "Phacellodomus erythrophthalmus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/811/118684_e260caf317d5ceeb8c362022a6a28d85.mp3"
+  },
+  {
+    "titulo": "Teque-teque",
+    "nome_cientifico": "Todirostrum poliocephalum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/611/116555_9baa2da9707f97161fed635e45d9507c.mp3"
+  },
+  {
+    "titulo": "Guaracava-cinzenta",
+    "nome_cientifico": "Myiopagis caniceps",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/93/39405_de9acb3d44842b6e1e3082d070756e7d.mp3"
+  },
+  {
+    "titulo": "Bentevizinho-de-penacho-vermelho",
+    "nome_cientifico": "Myiozetetes similis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/16/61100_7f151042082c5b251a98ed7199a4c224.mp3"
+  },
+  {
+    "titulo": "Suiriri",
+    "nome_cientifico": "Tyrannus melancholicus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/89/98693_83dcb76eb36e56bd2ed9b22956de9d71.mp3"
+  },
+  {
+    "titulo": "Rendeira",
+    "nome_cientifico": "Manacus manacus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/282/282613_52b9796172236d46472ef580801ef399.mp3"
+  },
+  {
+    "titulo": "Tangará",
+    "nome_cientifico": "Chiroxiphia caudata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/691/196381_7ff7a6f8c0cf358fac4abfd87d89b81c.mp3"
+  },
+  {
+    "titulo": "Caneleiro-preto",
+    "nome_cientifico": "Pachyramphus polychopterus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/31/13766_a024815968fd7d9a1159683cd153f4dc.mp3"
+  },
+  {
+    "titulo": "Sabiá-coleira",
+    "nome_cientifico": "Turdus albicollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/622/226228_232b1d3377d8c03e77174c1f5f71305f.mp3"
+  },
+  {
+    "titulo": "Cambacica",
+    "nome_cientifico": "Coereba flaveola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/52/25845_36a458be2f0059bfd4268f7a5a366585.mp3"
+  },
+  {
+    "titulo": "Sanhaço-cinzento",
+    "nome_cientifico": "Thraupis sayaca",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43298_592e98fe5df71fefabe57a2c15af3289.mp3"
+  },
+  {
+    "titulo": "Coleirinho",
+    "nome_cientifico": "Sporophila caerulescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/111/111217_eb3f6fda676e3aaf53bdc60e9db15f2c.mp3"
+  },
+  {
+    "titulo": "Pula-pula",
+    "nome_cientifico": "Basileuterus culicivorus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/32/23092_c8f8f25023cb1aad74734f84639aea9d.mp3"
+  },
+  {
+    "titulo": "Encontro",
+    "nome_cientifico": "Icterus pyrrhopterus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58857_bb91bdc6e3abb3f1da8738bb39eeaa8c.mp3"
+  },
+  {
+    "titulo": "Chupim-do-brejo",
+    "nome_cientifico": "Pseudoleistes guirahuro",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/724/427936_35f773c0eb909e5bfb6403ec07665100.mp3"
+  },
+  {
+    "titulo": "Jacuguaçu",
+    "nome_cientifico": "Penelope obscura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/581/185860_4b8c75d41a3280cd109e666c31fbc76f.mp3"
+  },
+  {
+    "titulo": "Garça-branca-grande",
+    "nome_cientifico": "Ardea alba",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/631/136919_03d77e534c9f1e4b8aff914cb1afe164.mp3"
+  },
+  {
+    "titulo": "Curicaca",
+    "nome_cientifico": "Theristicus caudatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/93/39428_2d98afd68af6e08b43a27ab266f49868.mp3"
+  },
+  {
+    "titulo": "Gavião-carijó",
+    "nome_cientifico": "Rupornis magnirostris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/272/272317_9dc20d3791babfbd19a2abfec14c859c.mp3"
+  },
+  {
+    "titulo": "Gavião-pega-macaco",
+    "nome_cientifico": "Spizaetus tyrannus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/313/313092_a064732ca6ab88833003cb1c69bac77a.mp3"
+  },
+  {
+    "titulo": "Carcará",
+    "nome_cientifico": "Caracara plancus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43969_59ffbb35b8f7a6e7a84287f121972fff.mp3"
+  },
+  {
+    "titulo": "Falcão-relógio",
+    "nome_cientifico": "Micrastur semitorquatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/64/46172_25e4c62776e9d727115d618300bdf773.mp3"
+  },
+  {
+    "titulo": "Sanã-vermelha",
+    "nome_cientifico": "Laterallus leucopyrrhus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43989_edba8b1985eda122162e138a210ff329.mp3"
+  },
+  {
+    "titulo": "Galinha-d&#039;água",
+    "nome_cientifico": "Gallinula galeata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/01/10002_3f610a9212317b66dd419b77785df32e.mp3"
+  },
+  {
+    "titulo": "Narceja",
+    "nome_cientifico": "Gallinago paraguaiae",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44002_c4745ae28ecc90967180d57af0686d83.mp3"
+  },
+  {
+    "titulo": "Pomba-asa-branca",
+    "nome_cientifico": "Patagioenas picazuro",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59223_b61a9a97c40f3f6566e40fd7eca31d61.mp3"
+  },
+  {
+    "titulo": "Pomba-galega",
+    "nome_cientifico": "Patagioenas cayennensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/54/45066_7b19c63ea9522da415e6dc7f584f2646.mp3"
+  },
+  {
+    "titulo": "Avoante",
+    "nome_cientifico": "Zenaida auriculata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/54/45082_f79c6b327f3ec07c23a43d112bc1142a.mp3"
+  },
+  {
+    "titulo": "Tuim",
+    "nome_cientifico": "Forpus xanthopterygius",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/981/189069_0ce364faa63c10d4a28dc4bf2f3df2bb.mp3"
+  },
+  {
+    "titulo": "Bacurau-de-rabo-maculado",
+    "nome_cientifico": "Hydropsalis maculicaudus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/222/222724_255a5f0861334404368450c0ebf5e733.mp3"
+  },
+  {
+    "titulo": "Bacurau-chintã",
+    "nome_cientifico": "Hydropsalis parvula",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/564/465990_09d7c8f5f3b7bacc41b38bd03a648b1c.mp3"
+  },
+  {
+    "titulo": "Rabo-branco-acanelado",
+    "nome_cientifico": "Phaethornis pretrei",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/733/337921_ae993d3d8a8c9136891b3519ebcc2a0a.mp3"
+  },
+  {
+    "titulo": "Beija-flor-de-peito-azul",
+    "nome_cientifico": "Chionomesa lactea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/13/31351_3add9ffabf4676ac7bfc1662dbf855e0.mp3"
+  },
+  {
+    "titulo": "João-bobo",
+    "nome_cientifico": "Nystalus chacuru",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/282/282615_96d3ce580f33f84533bf603aabeeb9bc.mp3"
+  },
+  {
+    "titulo": "Tucano-de-bico-verde",
+    "nome_cientifico": "Ramphastos dicolorus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/9/9065_cc1562ffd51e25b7baea42a9f50b1fb3.mp3"
+  },
+  {
+    "titulo": "Picapauzinho-barrado",
+    "nome_cientifico": "Picumnus cirratus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/29/92886_e7ece0b2afcbfb57a445d929fbf742bb.mp3"
+  },
+  {
+    "titulo": "Pica-pau-verde-carijó",
+    "nome_cientifico": "Veniliornis spilogaster",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/43/34179_c4a16282e5273ee909ca7a7067e9820f.mp3"
+  },
+  {
+    "titulo": "Pica-pau-de-banda-branca",
+    "nome_cientifico": "Dryocopus lineatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/051/150378_220ef1794b6473675e17d1ad2ad7682e.mp3"
+  },
+  {
+    "titulo": "Choca-de-chapéu-vermelho",
+    "nome_cientifico": "Thamnophilus ruficapillus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/212/212123_77af8c57f5f1d9680e43b354958582ac.mp3"
+  },
+  {
+    "titulo": "Choquinha-lisa",
+    "nome_cientifico": "Dysithamnus mentalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/05/50335_d9187d2644acd68b36037c9618ba7666.mp3"
+  },
+  {
+    "titulo": "Papa-taoca-do-sul",
+    "nome_cientifico": "Pyriglena leucoptera",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/74/47838_2172feb9dd9706805b24a89b31438004.mp3"
+  },
+  {
+    "titulo": "Chupa-dente",
+    "nome_cientifico": "Conopophaga lineata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/27/72737_e4e64ecb4622e73d3eb65bc1b250df87.mp3"
+  },
+  {
+    "titulo": "Arapaçu-de-cerrado",
+    "nome_cientifico": "Lepidocolaptes angustirostris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/47/74113_1c1db627ec4195f3b9f5cd45c196c570.mp3"
+  },
+  {
+    "titulo": "Bate-bico",
+    "nome_cientifico": "Phleocryptes melanops",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/163/361489_8852c2cc5402e12cbd8c20483d33ed5f.mp3"
+  },
+  {
+    "titulo": "Pichororé",
+    "nome_cientifico": "Synallaxis ruficapilla",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/852/258115_43c77bc780f96aeef329c7b0ac4298d1.mp3"
+  },
+  {
+    "titulo": "Uí-pi",
+    "nome_cientifico": "Synallaxis albescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/09/90757_346733b014e21604d5e3d703c3142e9e.mp3"
+  },
+  {
+    "titulo": "Curutié",
+    "nome_cientifico": "Certhiaxis cinnamomeus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44758_8724a7e06c0ec6387007660c73e6a23d.mp3"
+  },
+  {
+    "titulo": "João-porca",
+    "nome_cientifico": "Lochmias nematura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/86/68607_714a14d1cbab309025f1521fc4bd522e.mp3"
+  },
+  {
+    "titulo": "Alegrinho",
+    "nome_cientifico": "Serpophaga subcristata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59245_3b6d4c222b3c2b2d2afb8c5ea78d2f05.mp3"
+  },
+  {
+    "titulo": "Filipe",
+    "nome_cientifico": "Myiophobus fasciatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/19/91411_1e6db83c82d44fd247c69caf9cb7fd61.mp3"
+  },
+  {
+    "titulo": "Gibão-de-couro",
+    "nome_cientifico": "Hirundinea ferruginea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22149_0fc89e402f97284e2b191923f76bc46d.mp3"
+  },
+  {
+    "titulo": "Tesoura-do-brejo",
+    "nome_cientifico": "Gubernetes yetapa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/97/79039_1b89f62567db6e58d72480103a6649b8.mp3"
+  },
+  {
+    "titulo": "Lavadeira-mascarada",
+    "nome_cientifico": "Fluvicola nengeta",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58811_1faf72e6beaedc6519da6b9b501eed29.mp3"
+  },
+  {
+    "titulo": "Suiriri-cavaleiro",
+    "nome_cientifico": "Machetornis rixosa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59330_fc5b9b12ea3fa529e9d19c90a7e48608.mp3"
+  },
+  {
+    "titulo": "Bem-te-vi-rajado",
+    "nome_cientifico": "Myiodynastes maculatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/561/165400_d9549d25645fcf17f68a14b23517db96.mp3"
+  },
+  {
+    "titulo": "Neinei",
+    "nome_cientifico": "Megarynchus pitangua",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/01/10433_632d2c90dbc37fc220d8a9de4325de46.mp3"
+  },
+  {
+    "titulo": "Peitica",
+    "nome_cientifico": "Empidonomus varius",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44772_3de39f231acddca43684f4c1e4fb8b8e.mp3"
+  },
+  {
+    "titulo": "Tesourinha",
+    "nome_cientifico": "Tyrannus savana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/76/67300_095c2e88291ca4417eeaae1d7f5c2582.mp3"
+  },
+  {
+    "titulo": "Maria-cavaleira",
+    "nome_cientifico": "Myiarchus ferox",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/24/42536_a08f54b32f80451297198782e4c17ced.mp3"
+  },
+  {
+    "titulo": "Caneleiro-de-chapéu-preto",
+    "nome_cientifico": "Pachyramphus validus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/06/60158_f556d96633f0b9a6afbee21563348bd9.mp3"
+  },
+  {
+    "titulo": "Juruviara",
+    "nome_cientifico": "Vireo chivi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/06/60578_8ae4cb0d34f3b3c2b560f3d9ceb2d669.mp3"
+  },
+  {
+    "titulo": "Andorinha-pequena-de-casa",
+    "nome_cientifico": "Pygochelidon cyanoleuca",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/531/135462_a59a25ae326ea52f5c8d85e154688dbc.mp3"
+  },
+  {
+    "titulo": "Sabiá-laranjeira",
+    "nome_cientifico": "Turdus rufiventris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59269_c3a95f9da82f9313c2bee7184bb3b8ff.mp3"
+  },
+  {
+    "titulo": "Sabiá-poca",
+    "nome_cientifico": "Turdus amaurochalinus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/73/37506_d39ef33315698f112000df5fefeeb242.mp3"
+  },
+  {
+    "titulo": "Tiê-sangue",
+    "nome_cientifico": "Ramphocelus bresilia",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/91/19086_e25c96b25e9fd0a2144ebb6b0b30338b.mp3"
+  },
+  {
+    "titulo": "Sanhaço-do-coqueiro",
+    "nome_cientifico": "Thraupis palmarum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/582/285854_b73589eb5e82f1fe3ada1091e0a77bdf.mp3"
+  },
+  {
+    "titulo": "Saí-andorinha",
+    "nome_cientifico": "Tersina viridis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65071_9e9c27284a52a6ac40ee93e99c8f7e06.mp3"
+  },
+  {
+    "titulo": "Tico-tico-do-campo",
+    "nome_cientifico": "Ammodramus humeralis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/852/258199_54c8f4e8257f08a6443ff37d03abce63.mp3"
+  },
+  {
+    "titulo": "Curió",
+    "nome_cientifico": "Sporophila angolensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/431/134480_72eff1f295ce5fb220daf95a035765f9.mp3"
+  },
+  {
+    "titulo": "Tico-tico-do-mato",
+    "nome_cientifico": "Arremon semitorquatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65084_ed0a6cbd927be8293f5b83a3bdc7c2fa.mp3"
+  },
+  {
+    "titulo": "Pia-cobra",
+    "nome_cientifico": "Geothlypis aequinoctialis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/9/9081_c9cc42380f07f7dec2645765bd8a2cb8.mp3"
+  },
+  {
+    "titulo": "Chupim",
+    "nome_cientifico": "Molothrus bonariensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/993/399972_22279d39132a5e8bd1dd738ce8c33b9a.mp3"
+  },
+  {
+    "titulo": "Pintassilgo",
+    "nome_cientifico": "Spinus magellanicus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/0/113_5418fa4d479de0d01e491b8294cde5f8.mp3"
+  },
+  {
+    "titulo": "Fim-fim",
+    "nome_cientifico": "Euphonia chlorotica",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/561/165397_eca9eb00b09ebe3b7007619fe0a9360c.mp3"
+  },
+  {
+    "titulo": "Gaturamo-verdadeiro",
+    "nome_cientifico": "Euphonia violacea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22174_a3c425cefc7b796774eda6bf8b98135f.mp3"
+  },
+  {
+    "titulo": "Tiê-de-bando",
+    "nome_cientifico": "Habia rubica",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/992/299932_076d252df5c6d946d8cd83f92d7c0394.mp3"
+  },
+  {
+    "titulo": "Inhambu-chintã",
+    "nome_cientifico": "Crypturellus tataupa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/14/41370_6b0248412631a62f22e951d60762afc2.mp3"
+  },
+  {
+    "titulo": "Marreca-ananaí",
+    "nome_cientifico": "Amazonetta brasiliensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/36/63302_a21f72d1cd6b380757e88dcc793557a2.mp3"
+  },
+  {
+    "titulo": "Socó-boi",
+    "nome_cientifico": "Tigrisoma lineatum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/631/136924_7c8ceb8ad3babc7cd7e0f800dffbb249.mp3"
+  },
+  {
+    "titulo": "Maria-faceira",
+    "nome_cientifico": "Syrigma sibilatrix",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/762/267493_61cb1b82bc3f15e260eedfc0fb11d874.mp3"
+  },
+  {
+    "titulo": "Garça-branca-pequena",
+    "nome_cientifico": "Egretta thula",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/791/197987_816c1cf78b83c13b4207a1e1dd9ef0dc.mp3"
+  },
+  {
+    "titulo": "Urubu-preto",
+    "nome_cientifico": "Coragyps atratus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/87/78686_db4ffb1dd72f1003811e44b2036419b8.mp3"
+  },
+  {
+    "titulo": "Gavião-peneira",
+    "nome_cientifico": "Elanus leucurus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/775/577505_dad22a7059d6acda2d26fb8708213bc3.mp3"
+  },
+  {
+    "titulo": "Tauató-miúdo",
+    "nome_cientifico": "Accipiter striatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43966_cd4e38845bfaa29c4f3cfd69c23c9963.mp3"
+  },
+  {
+    "titulo": "Gavião-pernilongo",
+    "nome_cientifico": "Geranospiza caerulescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/65/56027_462b19f8050bf436fc453992181b03fa.mp3"
+  },
+  {
+    "titulo": "Gavião-caboclo",
+    "nome_cientifico": "Heterospizias meridionalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/11/11689_49f944bd7647c5f5bc189bb4826326e7.mp3"
+  },
+  {
+    "titulo": "Águia-cinzenta",
+    "nome_cientifico": "Urubitinga coronata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/885/588856_e6dcd7575e174b1631c7e0abc4412668.mp3"
+  },
+  {
+    "titulo": "Gavião-de-rabo-branco",
+    "nome_cientifico": "Geranoaetus albicaudatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/76/67643_df0ae21c60715ad18ce5c1403f58cbed.mp3"
+  },
+  {
+    "titulo": "Falcão-de-coleira",
+    "nome_cientifico": "Falco femoralis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/77/77956_45510e8d0e2335a9469b34670499dae9.mp3"
+  },
+  {
+    "titulo": "Sanã-parda",
+    "nome_cientifico": "Laterallus melanophaius",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/362/263881_e44ed1241e60e40bfb8e8e9a287dba60.mp3"
+  },
+  {
+    "titulo": "Pernilongo-de-costas-brancas",
+    "nome_cientifico": "Himantopus melanurus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43994_18ba3b624b658249882e9bd758d5a7b9.mp3"
+  },
+  {
+    "titulo": "Juriti-pupu",
+    "nome_cientifico": "Leptotila verreauxi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/35/53310_2d85c034f08c00a3b42beb70a6092fa6.mp3"
+  },
+  {
+    "titulo": "Juriti-de-testa-branca",
+    "nome_cientifico": "Leptotila rufaxilla",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22162_81cfdbf187ab6305b372b165c7fc7980.mp3"
+  },
+  {
+    "titulo": "Periquito-de-encontro-amarelo",
+    "nome_cientifico": "Brotogeris chiriri",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/601/106184_ec09a57850832c0298e034a01d209244.mp3"
+  },
+  {
+    "titulo": "Papagaio-verdadeiro",
+    "nome_cientifico": "Amazona aestiva",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/2/2578_e93056d0fa03876972d47934c4864f04.mp3"
+  },
+  {
+    "titulo": "Jacurutu",
+    "nome_cientifico": "Bubo virginianus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/321/123256_5aa2cbecdedf03d89df4f38f018aa455.mp3"
+  },
+  {
+    "titulo": "Caburé",
+    "nome_cientifico": "Glaucidium brasilianum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/321/123251_4299f8cce8ce44b964764d420d6253b2.mp3"
+  },
+  {
+    "titulo": "Coruja-buraqueira",
+    "nome_cientifico": "Athene cunicularia",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44030_af64b0a274613c8d9326d539d742dad2.mp3"
+  },
+  {
+    "titulo": "Bacurau-tesoura",
+    "nome_cientifico": "Hydropsalis torquata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/733/337636_60705de0e919f681651ba5b150a4ab53.mp3"
+  },
+  {
+    "titulo": "Andorinhão-do-temporal",
+    "nome_cientifico": "Chaetura meridionalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/06/60329_5216ae0967f099ee99a241bd98d305f2.mp3"
+  },
+  {
+    "titulo": "Beija-flor-preto",
+    "nome_cientifico": "Florisuga fusca",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/472/274325_cc723140dc2128f615c7e9d4dd1f7610.mp3"
+  },
+  {
+    "titulo": "Besourinho-de-bico-vermelho",
+    "nome_cientifico": "Chlorostilbon lucidus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/421/124587_e9bcc60ca9f6d2f244ddb465f4945c12.mp3"
+  },
+  {
+    "titulo": "Beija-flor-de-fronte-violeta",
+    "nome_cientifico": "Thalurania glaucopis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/761/167350_a787aad92e5e98ed58b70b15408d04dd.mp3"
+  },
+  {
+    "titulo": "Beija-flor-de-banda-branca",
+    "nome_cientifico": "Chrysuronia versicolor",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/86/68458_dbde9395b927003a63928f6a52f3cc10.mp3"
+  },
+  {
+    "titulo": "Martim-pescador-verde",
+    "nome_cientifico": "Chloroceryle amazona",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/631/136921_1ce6ec15d4d109a2cee2920df70d9e44.mp3"
+  },
+  {
+    "titulo": "Pica-pau-verde-barrado",
+    "nome_cientifico": "Colaptes melanochloros",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/14/41454_376222a676e136ce9a0d8ee08983a653.mp3"
+  },
+  {
+    "titulo": "Pica-pau-de-cabeça-amarela",
+    "nome_cientifico": "Celeus flavescens",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/73/37499_b94d0a1ceb8e23ef6ebbbbec8964a92c.mp3"
+  },
+  {
+    "titulo": "Papa-formiga-de-grota",
+    "nome_cientifico": "Myrmoderus squamosus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/01/10571_dbed56d25280fdfbf31b2ad8e19e0449.mp3"
+  },
+  {
+    "titulo": "Arapaçu-rajado",
+    "nome_cientifico": "Xiphorhynchus fuscus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/791/197907_74a84d7e4cda4e0cc257c62dee4bcaa3.mp3"
+  },
+  {
+    "titulo": "Petrim",
+    "nome_cientifico": "Synallaxis frontalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59234_f661ae87b37462ef6de1b82fefe1f148.mp3"
+  },
+  {
+    "titulo": "João-botina-do-brejo",
+    "nome_cientifico": "Phacellodomus ferrugineigula",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/691/196814_b34499b4aa49c8901ae22df32a8d62f6.mp3"
+  },
+  {
+    "titulo": "Cochicho",
+    "nome_cientifico": "Anumbius annumbi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/11/11691_5573ca30b8c0271420edf436a0b82b0c.mp3"
+  },
+  {
+    "titulo": "Bico-virado-carijó",
+    "nome_cientifico": "Xenops rutilans",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/201/102142_0472e092d7b5f9f01d5908346e04306d.mp3"
+  },
+  {
+    "titulo": "Abre-asa-de-cabeça-cinza",
+    "nome_cientifico": "Mionectes rufiventris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58841_c169ef871709f50a82623bd847d14bf2.mp3"
+  },
+  {
+    "titulo": "Cabeçudo",
+    "nome_cientifico": "Leptopogon amaurocephalus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22147_3facd3ebea6ec6b4fba1796649bf2cf9.mp3"
+  },
+  {
+    "titulo": "Tachuri-campainha",
+    "nome_cientifico": "Hemitriccus nidipendulus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/712/217020_1113bb1198aef230405259c03113bf4b.mp3"
+  },
+  {
+    "titulo": "Tororó",
+    "nome_cientifico": "Poecilotriccus plumbeiceps",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22140_89295b2265d52fb98f43e421f18ac364.mp3"
+  },
+  {
+    "titulo": "Piolhinho",
+    "nome_cientifico": "Phyllomyias fasciatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/901/109281_f795fa27db2762eadec895244e18b7cd.mp3"
+  },
+  {
+    "titulo": "Patinho",
+    "nome_cientifico": "Platyrinchus mystaceus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65005_f1c74a919acd391b0a1807be417c7cee.mp3"
+  },
+  {
+    "titulo": "Papa-moscas-cinzento",
+    "nome_cientifico": "Contopus cinereus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/68/86137_dcec67fd3bdeaef07632570201b64d41.mp3"
+  },
+  {
+    "titulo": "Primavera",
+    "nome_cientifico": "Nengetus cinereus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/35/53217_2995d9d79ba385c6ae9fa5cc00b8374b.mp3"
+  },
+  {
+    "titulo": "Noivinha-branca",
+    "nome_cientifico": "Xolmis velatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/231/132281_05ea9bd0d686041e219ae6ceedf88810.mp3"
+  },
+  {
+    "titulo": "Viuvinha",
+    "nome_cientifico": "Colonia colonus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/94/49778_83fd9186e1c3dda360807527027dc2b6.mp3"
+  },
+  {
+    "titulo": "Irré",
+    "nome_cientifico": "Myiarchus swainsoni",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/68/86143_de59f1d7221888a2deae848cbf1ad590.mp3"
+  },
+  {
+    "titulo": "Capitão-de-saíra",
+    "nome_cientifico": "Attila rufus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/765/567572_4b46060ee1f213516720b0db5845b301.mp3"
+  },
+  {
+    "titulo": "Andorinha-de-sobre-branco",
+    "nome_cientifico": "Tachycineta leucorrhoa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/9641/1469419_9e2ede1d36b111e630887fc9176ed19e.mp3"
+  },
+  {
+    "titulo": "Andorinha-grande",
+    "nome_cientifico": "Progne chalybea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/371/173458_73b96f4271b5b2a8622ad58da19804c9.mp3"
+  },
+  {
+    "titulo": "Andorinha-serradora",
+    "nome_cientifico": "Stelgidopteryx ruficollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/952/259307_3d9bfdb13b71401ceba6afbc2a41ca3a.mp3"
+  },
+  {
+    "titulo": "Japacanim",
+    "nome_cientifico": "Donacobius atricapilla",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/101/101304_3b2971ec3cda1263024f8cce49596130.mp3"
+  },
+  {
+    "titulo": "Sabiá-una",
+    "nome_cientifico": "Turdus flavipes",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/2/2409_d2a0685e975c2c1862d33a539055109e.mp3"
+  },
+  {
+    "titulo": "Bico-de-veludo",
+    "nome_cientifico": "Schistochlamys ruficapillus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22181_6d19fdbd8eaddfaf5fd9a89bbb4dba77.mp3"
+  },
+  {
+    "titulo": "Saíra-de-chapéu-preto",
+    "nome_cientifico": "Nemosia pileata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59836_ac97b22cf66ea476dada9a836b499181.mp3"
+  },
+  {
+    "titulo": "Saí-canário",
+    "nome_cientifico": "Thlypopsis sordida",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/201/102141_803950bb4e6e982e779a2e5b3a879566.mp3"
+  },
+  {
+    "titulo": "Tiê-de-topete",
+    "nome_cientifico": "Trichothraupis melanops",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/35/53244_dff9b6376b72442ecef38de776ac883d.mp3"
+  },
+  {
+    "titulo": "Saíra-douradinha",
+    "nome_cientifico": "Tangara cyanoventris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59261_b002cd8fb0e3c2205b490168d97d271d.mp3"
+  },
+  {
+    "titulo": "Saí-azul",
+    "nome_cientifico": "Dacnis cayana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58796_01d9914c8c29b1fd40cde778a13bc56a.mp3"
+  },
+  {
+    "titulo": "Saíra-ferrugem",
+    "nome_cientifico": "Hemithraupis ruficapilla",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/101/101128_bb276a1a6c7721ddfc585233d55ed21e.mp3"
+  },
+  {
+    "titulo": "Figuinha-de-rabo-castanho",
+    "nome_cientifico": "Conirostrum speciosum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/63/36542_416b238570bb4c00ddcbd44d5c7927aa.mp3"
+  },
+  {
+    "titulo": "Pixoxó",
+    "nome_cientifico": "Sporophila frontalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/12/21991_dbbfea3b01b9956d2ddc422a42e0c902.mp3"
+  },
+  {
+    "titulo": "Chorão",
+    "nome_cientifico": "Sporophila leucoptera",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/123/321593_247eb04b88e968aa0a03939c4f46abc0.mp3"
+  },
+  {
+    "titulo": "Garibaldi",
+    "nome_cientifico": "Chrysomus ruficapillus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65620_630801086a73a9751e4342dab214b6b8.mp3"
+  },
+  {
+    "titulo": "Bico-de-lacre",
+    "nome_cientifico": "Estrilda astrild",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/71/17826_bbc07d303d68178eb14c358f4fbd3cdf.mp3"
+  },
+  {
+    "titulo": "Saracura-do-banhado",
+    "nome_cientifico": "Pardirallus sanguinolentus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/161/161830_def72dd67f88390cc617515954b1df2a.mp3"
+  },
+  {
+    "titulo": "Tuju",
+    "nome_cientifico": "Lurocalis semitorquatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/032/230688_c0bf43bf3d48fd58313658c6354e37b7.mp3"
+  },
+  {
+    "titulo": "Borralhara",
+    "nome_cientifico": "Mackenziaena severa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/091/190496_af9bf30012e55eb6504989e2f95c6273.mp3"
+  },
+  {
+    "titulo": "Bico-virado-miúdo",
+    "nome_cientifico": "Xenops minutus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/505/505039_b3ab9c0299c73836204c082cabe0e0cc.mp3"
+  },
+  {
+    "titulo": "Estalador",
+    "nome_cientifico": "Corythopis delalandi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/811/118571_d11beef15ce0d483d8df995ef02ab08a.mp3"
+  },
+  {
+    "titulo": "Maria-cavaleira-de-rabo-enferrujado",
+    "nome_cientifico": "Myiarchus tyrannulus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/1/1879_743aca43316d9df87d13ceb9d53633bd.mp3"
+  },
+  {
+    "titulo": "Sabiá-ferreiro",
+    "nome_cientifico": "Turdus subalaris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/282/282917_4e0a98be48f4bc5de29330992b3858ee.mp3"
+  },
+  {
+    "titulo": "Japu",
+    "nome_cientifico": "Psarocolius decumanus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/663/366840_c49de64fa0f4addf8f8ad57f054f541a.mp3"
+  },
+  {
+    "titulo": "Codorna-amarela",
+    "nome_cientifico": "Nothura maculosa",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/542/245551_d02ca2e2f5d5b307f7cf82ca5e9f0fff.mp3"
+  },
+  {
+    "titulo": "Irerê",
+    "nome_cientifico": "Dendrocygna viduata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/85/58800_7af854d79541d0ca710ba686ff123bea.mp3"
+  },
+  {
+    "titulo": "Marreca-cabocla",
+    "nome_cientifico": "Dendrocygna autumnalis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/501/105058_8914d1277196aa4311110d0f6cf20fdb.mp3"
+  },
+  {
+    "titulo": "Pato-do-mato",
+    "nome_cientifico": "Cairina moschata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/124/421414_c6ef86c54e35666b80ee0d306b7573ed.mp3"
+  },
+  {
+    "titulo": "Pato-de-crista",
+    "nome_cientifico": "Sarkidiornis sylvicola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/413/314442_b1a093675ca8ff90de338a922a3020df.mp3"
+  },
+  {
+    "titulo": "Marreca-cricri",
+    "nome_cientifico": "Spatula versicolor",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/7101/1017272_db0f1a753016a830edc168c78c49e6e0.mp3"
+  },
+  {
+    "titulo": "Mergulhão-caçador",
+    "nome_cientifico": "Podilymbus podiceps",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/98/89325_b308cc90a1c5474f067ba8a432d1afeb.mp3"
+  },
+  {
+    "titulo": "Biguá",
+    "nome_cientifico": "Nannopterum brasilianum",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/131/131057_ffed63874c5df2f9f138363738f1ca2d.mp3"
+  },
+  {
+    "titulo": "Biguatinga",
+    "nome_cientifico": "Anhinga anhinga",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/879/978077_fc38ccc987f4b3408c8df20acbd024b2.mp3"
+  },
+  {
+    "titulo": "Socó-dorminhoco",
+    "nome_cientifico": "Nycticorax nycticorax",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/101/101973_6d1c048a54c3392f70f785b0a671f8a8.mp3"
+  },
+  {
+    "titulo": "Socozinho",
+    "nome_cientifico": "Butorides striata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/962/269009_adf4773a89445bdf817308da7c1a164a.mp3"
+  },
+  {
+    "titulo": "Garça-vaqueira",
+    "nome_cientifico": "Bubulcus ibis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22157_00631ab43f37b6b87270d518c9d66ecb.mp3"
+  },
+  {
+    "titulo": "Garça-moura",
+    "nome_cientifico": "Ardea cocoi",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43953_9e8e00db4ca3e996e3d8bb4e7d57dc96.mp3"
+  },
+  {
+    "titulo": "Garça-real",
+    "nome_cientifico": "Pilherodius pileatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/1171/1711870_8520e4dd634db0b883f03355b7d12f5e.mp3"
+  },
+  {
+    "titulo": "Garça-azul",
+    "nome_cientifico": "Egretta caerulea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/851/158636_c5d35a52938e97c5fc8f303a45784e52.mp3"
+  },
+  {
+    "titulo": "Coró-coró",
+    "nome_cientifico": "Mesembrinibis cayennensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/742/247093_ad56487448339c154692e8e3d5a37cb3.mp3"
+  },
+  {
+    "titulo": "Tapicuru",
+    "nome_cientifico": "Phimosus infuscatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/811/118353_8cd30fb6753e6ac7288aaa86dfbe4406.mp3"
+  },
+  {
+    "titulo": "Colhereiro",
+    "nome_cientifico": "Platalea ajaja",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/7761/1677896_a9bd1690ed58ded62c897babf0ba0855.mp3"
+  },
+  {
+    "titulo": "Urubu-de-cabeça-vermelha",
+    "nome_cientifico": "Cathartes aura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/07/70061_71143e7d34dcd62a95fcdff53dba8deb.mp3"
+  },
+  {
+    "titulo": "Urubu-de-cabeça-amarela",
+    "nome_cientifico": "Cathartes burrovianus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/6501/1056908_9b993041efa6eda052e39373b5d2fdef.mp3"
+  },
+  {
+    "titulo": "Águia-pescadora",
+    "nome_cientifico": "Pandion haliaetus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/475/574217_c9479c4ba2b0cef6bf3c3c0439c2c54c.mp3"
+  },
+  {
+    "titulo": "Gavião-gato",
+    "nome_cientifico": "Leptodon cayanensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/182/281848_7496c5a0b2e711c9d32c38f6db7519d8.mp3"
+  },
+  {
+    "titulo": "Gavião-caracoleiro",
+    "nome_cientifico": "Chondrohierax uncinatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/59/95129_b9a7a293be957b426e0df3452665c5b2.mp3"
+  },
+  {
+    "titulo": "Gavião-tesoura",
+    "nome_cientifico": "Elanoides forficatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/502/205231_da3e4401b6ad6d8c125e28801f02ff70.mp3"
+  },
+  {
+    "titulo": "Gavião-caramujeiro",
+    "nome_cientifico": "Rostrhamus sociabilis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/34/43962_08f67d266fcc24e4af3bd1331000d9d6.mp3"
+  },
+  {
+    "titulo": "Gavião-bombachinha",
+    "nome_cientifico": "Harpagus diodon",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/3521/1253842_fd217eb6b633826fdeeecc4474eca988.mp3"
+  },
+  {
+    "titulo": "Sovi",
+    "nome_cientifico": "Ictinia plumbea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/991/199249_bbd2e465773e8449ae3a0fd715d6e9b9.mp3"
+  },
+  {
+    "titulo": "Gavião-pombo-pequeno",
+    "nome_cientifico": "Amadonastur lacernulatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/691/196326_86f02e75c626a419a1939663ffba46d6.mp3"
+  },
+  {
+    "titulo": "Gavião-preto",
+    "nome_cientifico": "Urubitinga urubitinga",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/311/113268_d3874f1eca11aa731bd9ba726872c479.mp3"
+  },
+  {
+    "titulo": "Gavião-asa-de-telha",
+    "nome_cientifico": "Parabuteo unicinctus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/2/2413_63ef34e05f16499cd324ea423feaadf2.mp3"
+  },
+  {
+    "titulo": "Gavião-de-cauda-curta",
+    "nome_cientifico": "Buteo brachyurus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/991/199245_b52b8971265d187b6e69caa629000b37.mp3"
+  },
+  {
+    "titulo": "Falcão-peregrino",
+    "nome_cientifico": "Falco peregrinus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/581/185046_a9cf1974157c9cdf0bcb9431d59d8bde.mp3"
+  },
+  {
+    "titulo": "Carão",
+    "nome_cientifico": "Aramus guarauna",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/56/65608_6b2cdcf2640779be775413a17aa75a7b.mp3"
+  },
+  {
+    "titulo": "Frango-d&#039;água-azul",
+    "nome_cientifico": "Porphyrio martinica",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/59/95022_be6473f982841f3f5c0da290ac291275.mp3"
+  },
+  {
+    "titulo": "Maçarico-solitário",
+    "nome_cientifico": "Tringa solitaria",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/785/587433_7fa55b860a868ae0f19ced5004c19bdc.mp3"
+  },
+  {
+    "titulo": "Maçarico-de-perna-amarela",
+    "nome_cientifico": "Tringa flavipes",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/203/302206_9256c43ff63eb58acfd09cffb29bffbc.mp3"
+  },
+  {
+    "titulo": "Jaçanã",
+    "nome_cientifico": "Jacana jacana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/12/21920_cdd3885f03681b19b95809b62a5a5183.mp3"
+  },
+  {
+    "titulo": "Pombo-doméstico",
+    "nome_cientifico": "Columba livia",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/706/607232_7be764bf051530bcfa33d0d3710dc466.mp3"
+  },
+  {
+    "titulo": "Periquito-rei",
+    "nome_cientifico": "Eupsittula aurea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/313/313636_1431d050aba52d4634a5ee3541d6ca21.mp3"
+  },
+  {
+    "titulo": "Periquito-rico",
+    "nome_cientifico": "Brotogeris tirica",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/411/114113_218072e1e3c0bb81a744aa5469c2d684.mp3"
+  },
+  {
+    "titulo": "Papa-lagarta-acanelado",
+    "nome_cientifico": "Coccyzus melacoryphus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/952/259869_f543a5fe1a87d8687e5dcbe88fad2334.mp3"
+  },
+  {
+    "titulo": "Urutau",
+    "nome_cientifico": "Nyctibius griseus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/64/46107_efc059d0ab89cb63dbcedc0543340c68.mp3"
+  },
+  {
+    "titulo": "Corucão",
+    "nome_cientifico": "Podager nacunda",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/937/739009_2e2904baf651b9875f9495caa9229bd3.mp3"
+  },
+  {
+    "titulo": "Taperuçu-de-coleira-branca",
+    "nome_cientifico": "Streptoprocne zonaris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/802/208966_f5517f8cbaa76401afa1da23e982239e.mp3"
+  },
+  {
+    "titulo": "Rabo-branco-de-garganta-rajada",
+    "nome_cientifico": "Phaethornis eurynome",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/781/187818_1b9250c814749b6093756b0202252602.mp3"
+  },
+  {
+    "titulo": "Beija-flor-de-orelha-violeta",
+    "nome_cientifico": "Colibri serrirostris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/24/42592_7fde3dad214154138c4208ccc9669c65.mp3"
+  },
+  {
+    "titulo": "Beija-flor-de-veste-preta",
+    "nome_cientifico": "Anthracothorax nigricollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/144/441722_ef8a4e8c0e901fbbab05952899dfe901.mp3"
+  },
+  {
+    "titulo": "Estrelinha-ametista",
+    "nome_cientifico": "Calliphlox amethystina",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/9011/1109536_abef615250337e8861e68ab6ce278569.mp3"
+  },
+  {
+    "titulo": "Surucuá-variado",
+    "nome_cientifico": "Trogon surrucura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/2/2492_f29b9bedc40e2530c32c9cd5db51d2ae.mp3"
+  },
+  {
+    "titulo": "Martim-pescador-grande",
+    "nome_cientifico": "Megaceryle torquata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/33/33071_1efec0205063febfb253ebfbef5dd371.mp3"
+  },
+  {
+    "titulo": "Martim-pescador-pequeno",
+    "nome_cientifico": "Chloroceryle americana",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/833/338057_9fd68c486a64594077d6c6883cfbeb88.mp3"
+  },
+  {
+    "titulo": "Pica-pau-rei",
+    "nome_cientifico": "Campephilus robustus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/672/276076_8ee406c388367c8d05751da3e1e0a738.mp3"
+  },
+  {
+    "titulo": "Arredio-do-rio",
+    "nome_cientifico": "Cranioleuca vulpina",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/501/105056_ebb84f7d93a128d43200e2b966b055eb.mp3"
+  },
+  {
+    "titulo": "Guaracava-grande",
+    "nome_cientifico": "Elaenia spectabilis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/06/60152_c2c49482cd79861d5749138e0ac1ac8b.mp3"
+  },
+  {
+    "titulo": "Tuque-pium",
+    "nome_cientifico": "Elaenia parvirostris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44771_2a527a3beed02256320607cb7ba08dd2.mp3"
+  },
+  {
+    "titulo": "Chibum",
+    "nome_cientifico": "Elaenia chiriquensis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/413/314252_202741507d5101c7c17338a214cafbaa.mp3"
+  },
+  {
+    "titulo": "Tucão",
+    "nome_cientifico": "Elaenia obscura",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/012/210038_e7a51dc51b221ab67410289f30eeb568.mp3"
+  },
+  {
+    "titulo": "João-pobre",
+    "nome_cientifico": "Serpophaga nigricans",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/75/57383_49779a5f916fe7c211fd4937e4cc356c.mp3"
+  },
+  {
+    "titulo": "Bagageiro",
+    "nome_cientifico": "Phaeomyias murina",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/19/91420_5affff00c205c5d3d2c707111574c74d.mp3"
+  },
+  {
+    "titulo": "Príncipe",
+    "nome_cientifico": "Pyrocephalus rubinus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44410_d81ef275011256975b20b167cc636a11.mp3"
+  },
+  {
+    "titulo": "Maria-preta-de-penacho",
+    "nome_cientifico": "Knipolegus lophotes",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/68/86141_df27181b52a83f07efedf64032592c8b.mp3"
+  },
+  {
+    "titulo": "Suiriri-pequeno",
+    "nome_cientifico": "Satrapa icterophrys",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59237_d9d725a3f8984d912982acdd3cc52fb4.mp3"
+  },
+  {
+    "titulo": "Freirinha",
+    "nome_cientifico": "Arundinicola leucocephala",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/851/158346_2967579107edad757eb33d55874e7b3b.mp3"
+  },
+  {
+    "titulo": "Suiriri-valente",
+    "nome_cientifico": "Tyrannus tyrannus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/599/995241_8d959f09c667908b8e7083e73dcf6e48.mp3"
+  },
+  {
+    "titulo": "Gritador",
+    "nome_cientifico": "Sirystes sibilator",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/05/50317_6f28713bfb2cde15248090d303584f80.mp3"
+  },
+  {
+    "titulo": "Araponga",
+    "nome_cientifico": "Procnias nudicollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/69/96152_033a96976b1d7b271acf622ff6fef988.mp3"
+  },
+  {
+    "titulo": "Pavó",
+    "nome_cientifico": "Pyroderus scutatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/3021/1203137_192614c0f343d964c94c69ace3f10600.mp3"
+  },
+  {
+    "titulo": "Caneleiro",
+    "nome_cientifico": "Pachyramphus castaneus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/601/106379_71040c974adf31ee0b45100ffab60653.mp3"
+  },
+  {
+    "titulo": "Andorinha-do-rio",
+    "nome_cientifico": "Tachycineta albiventer",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/033/330300_4d88617d86beb48e11a0561796c0a910.mp3"
+  },
+  {
+    "titulo": "Andorinha-do-campo",
+    "nome_cientifico": "Progne tapera",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/103/301978_e5b89e7c1c25b2522c0e62b121d95b33.mp3"
+  },
+  {
+    "titulo": "Andorinha-morena",
+    "nome_cientifico": "Alopochelidon fucata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/44/44445_fd647163079369d568f8d57b69310f4f.mp3"
+  },
+  {
+    "titulo": "Caminheiro-zumbidor",
+    "nome_cientifico": "Anthus chii",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/341/143306_7e5fa32052311854c924715654ee7bf2.mp3"
+  },
+  {
+    "titulo": "Sanhaço-de-fogo",
+    "nome_cientifico": "Piranga flava",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/22/22049_9f457d89aad2a2246b769026613aa7d7.mp3"
+  },
+  {
+    "titulo": "Sanhaço-de-encontro-amarelo",
+    "nome_cientifico": "Thraupis ornata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/88/88803_93f19a7910f2127da8f14d586e2cd590.mp3"
+  },
+  {
+    "titulo": "Saíra-viúva",
+    "nome_cientifico": "Pipraeidea melanonota",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/691/196630_75261a491bb2afa551ffd6f79e31a1ef.mp3"
+  },
+  {
+    "titulo": "Tico-tico-do-banhado",
+    "nome_cientifico": "Donacospiza albifrons",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/15/51312_0e32bb08c8cfe5c2c80fd014c737d94f.mp3"
+  },
+  {
+    "titulo": "Tipio",
+    "nome_cientifico": "Sicalis luteola",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/25/52893_5d3192726d0738f04849288fd46055a3.mp3"
+  },
+  {
+    "titulo": "Baiano",
+    "nome_cientifico": "Sporophila nigricollis",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59240_73f88a24562d7a5b76dcf9bf4e0f79b4.mp3"
+  },
+  {
+    "titulo": "Tico-tico-rei-cinza",
+    "nome_cientifico": "Coryphospingus pileatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/12/21987_b40c505605d4d8a610899efc2b89ba92.mp3"
+  },
+  {
+    "titulo": "Tico-tico-rei",
+    "nome_cientifico": "Coryphospingus cucullatus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/95/59620_241d1c6ad5d11e1c228b865993a17767.mp3"
+  },
+  {
+    "titulo": "Cardeal",
+    "nome_cientifico": "Paroaria coronata",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/35/53132_7f6c85d415cda571285a918495e3c97b.mp3"
+  },
+  {
+    "titulo": "Carretão",
+    "nome_cientifico": "Agelasticus atroolivaceus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/512/215987_c7570c136e9e5f4422fb1f19ba9b0fb3.mp3"
+  },
+  {
+    "titulo": "Chupim-azeviche",
+    "nome_cientifico": "Molothrus rufoaxillaris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/13/31963_8829e20735044438611bd8a371e90ab5.mp3"
+  },
+  {
+    "titulo": "Iraúna-grande",
+    "nome_cientifico": "Molothrus oryzivorus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/242/242863_aa9a6f0bf9ae650c57dc4e86ff2e48a0.mp3"
+  },
+  {
+    "titulo": "Polícia-inglesa-do-sul",
+    "nome_cientifico": "Leistes superciliaris",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/13/31927_9ec16690f595438efc1a1db73e53930f.mp3"
+  },
+  {
+    "titulo": "Gaturamo-rei",
+    "nome_cientifico": "Cyanophonia cyanocephala",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/27/72732_25029114bdd29d8b263e575c3a0ea72f.mp3"
+  },
+  {
+    "titulo": "Gaturamo-bandeira",
+    "nome_cientifico": "Chlorophonia cyanea",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/561/165735_6a5cce2d222f9b59fed6f78e6b81bf5b.mp3"
+  },
+  {
+    "titulo": "Pardal",
+    "nome_cientifico": "Passer domesticus",
+    "audio": "https://s3.amazonaws.com/media.wikiaves.com.br/recordings/931/139300_475ebd5e2692c88245389aa4cc4ac0e1.mp3"
+  }
+]
