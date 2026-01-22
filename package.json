@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
@@ -14,10 +15,13 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-scripts": "5.0.1",
+    "tailwindcss": "^4.1.18",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "tailcss": "npx @tailwindcss/cli -i ./src/index.css -o ./public/styles.css --watch",
+    "dev": "bun run start && bun run tailcss",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
