@@ -1,60 +1,39 @@
 import React, { useCallback, useEffect, useMemo, useState } from "react";
-import birds from "../../aves_de_jacarei.json";
+import { getQuiz, QUIZ_QUESTIONS_LENGTH } from "../../utils/getQuiz";
 
 const Quiz = () => {
   const [started, setStarted] = useState<boolean>(false);
   const [questions, setQuestions] = useState<any>([]);
   const [step, setStep] = useState(0);
-  const [correctCount, setCorrectCount] = useState<number>(0);
-  const [tempBlock, setTempBlock] = useState(false);
+  const [respondida, setRespondida] = useState(false);
+  const [choice, setChoice] = useState<any>(null);
 
   useEffect(() => {
-    getBirdQuiz();
+    const quiz = getQuiz();
+    setQuestions(quiz);
   }, [started]);
 
-  const getBirdQuiz = () => {
-    let bird_list = [];
-    for (let i = 0; i < 20; i++) {
-      const index = Math.floor(Math.random() * (birds.length - 1));
-      const selected_bird = birds[index];
-      const tax = selected_bird.nome_cientifico.split(" ")[0];
-      console.log("tax", tax);
-      const tax_similar = birds.find(
-        (item) =>
-          item.titulo !== selected_bird.titulo ||
-          item.nome_cientifico.split(" ")[0] === tax,
-      );
-      console.log("similar", tax_similar);
-
-      let options: string[] = [tax_similar!.titulo];
-
-      for (let j = 0; j < 3; j++) {
-        const j_index = Math.floor(Math.random() * (birds.length - 1));
-        options.push(birds[j_index].titulo);
-      }
-
-      bird_list.push({ ...selected_bird, options });
+  const handleStepUpdate = useCallback(() => {
+    if (step >= 0 && step < QUIZ_QUESTIONS_LENGTH) {
+      setStep(step + 1);
+      setRespondida(false);
     }
+  }, [step]);
 
-    setQuestions(bird_list);
-  };
-
-  const current_question = useMemo(() => questions[step], [questions]);
+  const current_question = useMemo(() => questions[step], [questions, step]);
   const pos = useMemo(() => Math.floor(Math.random() * 4), [step]);
   console.log({ current_question });
 
-  const handleSelection = useCallback(
-    (evt: any) => {
-      setTempBlock(true);
-      console.log({ evt, current_question });
+  const handleSelection = useCallback((evt: any, item: any) => {
+    setRespondida(true);
 
-      const target = evt.target;
-      if (target.value === current_question.titulo) {
-        setCorrectCount(correctCount + 1);
-      }
-    },
-    [current_question, correctCount],
-  );
+    const target = evt.target;
+    if (target.value === item.titulo) {
+      setChoice(item);
+    }
+  }, []);
+
+  console.log(current_question === choice);
 
   return (
     <div
@@ -74,12 +53,11 @@ const Quiz = () => {
               if (index === pos) {
                 return (
                   <div
-                    className={`flex gap-2 relative h-12 w-80 p-2 mb-2 cursor-pointer border-emerald-600 rounded-md border hover:bg-pink-50 ${tempBlock ? "pointer-events-none bg-gray-700" : ""}`}
+                    className={`${current_question === choice ? "bg-green-500" : ""} flex gap-2 relative h-12 w-80 p-2 mb-2 cursor-pointer border-emerald-600 rounded-md border hover:bg-pink-50 ${respondida ? "pointer-events-none" : ""} `}
                   >
                     <input
-                      onClick={handleSelection}
+                      onClick={(evt) => handleSelection(evt, current_question)}
                       className="appearance-none w-100 cursor-pointer"
-                      disabled={tempBlock}
                       key={current_question.titulo}
                       type="radio"
                       name="bird"
@@ -97,13 +75,12 @@ const Quiz = () => {
 
               return (
                 <div
-                  className={`flex gap-2 relative h-12 w-80 p-2 mb-2 cursor-pointer border-emerald-600 rounded-md border hover:bg-pink-50 ${tempBlock ? "pointer-events-none bg-gray-700" : ""} `}
+                  className={` flex gap-2 relative h-12 w-80 p-2 mb-2 cursor-pointer border-emerald-600 rounded-md border hover:bg-pink-50 ${respondida ? "pointer-events-none" : ""}`}
                 >
                   <input
-                    onClick={handleSelection}
-                    className="appearance-none w-100 cursor-pointer"
+                    onClick={(evt) => handleSelection(evt, item)}
+                    className={`appearance-none w-100 cursor-pointer ${respondida && item === choice?.titulo ? "bg-red-500" : ""}`}
                     key={item}
-                    disabled={tempBlock}
                     type="radio"
                     name="bird"
                     value={item}
@@ -120,13 +97,21 @@ const Quiz = () => {
           </div>
         </div>
       ) : null}
-      {correctCount}/20
+      {step}/20
       {!started ? (
         <button
           onClick={() => setStarted(true)}
           className="w-48 self-center bg-teal-700 hover:bg-teal-600 hover:border hover:border-teal-950 border border-transparent transition-all cursor-pointer p-2 rounded-md font-bold"
         >
           Iniciar Quiz
+        </button>
+      ) : null}
+      {respondida ? (
+        <button
+          onClick={() => handleStepUpdate()}
+          className="w-48 self-center bg-teal-700 hover:bg-teal-600 hover:border hover:border-teal-950 border border-transparent transition-all cursor-pointer p-2 rounded-md font-bold"
+        >
+          Próximo desafio!
         </button>
       ) : null}
     </div>
